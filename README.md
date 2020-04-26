@@ -3,7 +3,7 @@
 ### Summary
 In this repository I have all of my files from the beginning of studying computer vision. Most of these files are super small.
 For example:
-- 'just_camera.py` gets video from your web-cam and shows it on the screen. If you press `q` is stops working
+- `just_camera.py` gets video from your web-cam and shows it on the screen. If you press `q` is stops working
 - `QR_from_camera` also gets the video from your web-cam but if you show some QR-code to the camera it will open the link which
 is stored on this code. I find it pretty useful
 - `QR_generator`does this:
